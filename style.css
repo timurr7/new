@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    background-image: url(./img/book-1283468_960_720-755x395\ \(1\).jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+div {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: solid 8px orange;
+}
